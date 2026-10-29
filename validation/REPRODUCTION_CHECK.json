@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "kind": "fresh refit from controlled model-ready PPMI input",
+  "qualified_models": 10,
+  "verified_contrasts": 36,
+  "analytically_verified_exposure_vectors": 18,
+  "tolerances": {
+    "estimate_SE_CI_absolute": 1e-06,
+    "df_relative": 1e-06,
+    "p_absolute": 1e-07
+  },
+  "maximum_errors": {
+    "Estimate": {
+      "max_absolute": 7.560344017498721e-08,
+      "max_relative": 7.486959716756898e-08
+    },
+    "Std. Error": {
+      "max_absolute": 1.0681920098454256e-07,
+      "max_relative": 2.25561324938814e-07
+    },
+    "df": {
+      "max_absolute": 0.00010659397801759951,
+      "max_relative": 6.318437802717267e-07
+    },
+    "lower": {
+      "max_absolute": 2.443946200969549e-07,
+      "max_relative": 1.1282203612425467e-07
+    },
+    "upper": {
+      "max_absolute": 1.8608635099504056e-07,
+      "max_relative": 4.6646350157934137e-07
+    },
+    "Pr(>|t|)": {
+      "max_absolute": 9.670738900652287e-09,
+      "max_relative": 1.761503480821056e-06
+    }
+  },
+  "all_estimates_and_CI_match_at_manuscript_3_decimal_precision": true,
+  "numeric_note": "An initial uniform absolute 1e-6 criterion was not met for Satterthwaite df (maximum absolute difference 0.000107; relative < 0.000001). The final check uses scale-appropriate df relative error and preserves the absolute effect/CI criteria.",
+  "synthetic_data_used": false,
+  "participant_data_in_public_repository": false,
+  "result_scope": "Numerical reproduction; not independent cohort validation."
+}

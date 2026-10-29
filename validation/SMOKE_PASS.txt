@@ -1,0 +1,5 @@
+PASS: synthetic anchor -> frozen scores -> longitudinal models -> contrasts
+PASS: original anchor scale retained before excluding 15 synthetic people
+PASS: 18 contrasts equal independent analytic vectors
+PASS: duplicate participant/time input rejected
+No patient data used; no significance or biological-effect claim tested.

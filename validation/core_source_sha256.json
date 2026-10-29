@@ -1,0 +1,6 @@
+{
+  "R/models.R": "f1ea415ee528f4f7860f8987610fa08c2c34d2707a99c1bf2b994ae335fd6400",
+  "scripts/run_models.R": "99785eecf1b4c4b2dc5e0168d2586b45cb3997dcc21ece6a47e4d91657d1615f",
+  "scripts/prepare_scores.R": "3b290e9932de0e0e51c3c74bcca4afab1512d7a7166948e5d9d271bedb52455e",
+  "tests/smoke.R": "f30a21c49b85fe1ce7b8d6a0e5d21be3b6e55c5711ffe9d4519a2361273fb478"
+}

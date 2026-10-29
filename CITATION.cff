@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the tagged code release used for your analysis. The repository maintainer listed here is not the manuscript author list."
+title: "CSF LPI and longitudinal nonmotor change in Parkinson disease: analysis code"
+type: software
+authors:
+  - name: "black662189"
+repository-code: "https://github.com/black662189/pd-csf-lpi-progression"
+url: "https://github.com/black662189/pd-csf-lpi-progression"
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT

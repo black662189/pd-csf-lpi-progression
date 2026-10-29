@@ -1,0 +1,11 @@
+outputs/
+private/
+data/
+*.rds
+*.RData
+.Rhistory
+.Renviron
+.env
+__pycache__/
+*.pyc
+*.log
